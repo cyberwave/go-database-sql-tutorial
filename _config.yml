@@ -5,3 +5,5 @@ lsi: false
 pygments: true
 timezone: UTC
 markdown: kramdown
+
+theme: jekyll-theme-slate
